@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agents Team Orchestrator"
+  short_description: "Plan and run long multi-agent tasks with shared context and state"
+  default_prompt: "Use $agents-team-orchestrator to organize this long task with a shared context board, packet specs, a state ledger, and coordinated sub-agent handoffs."

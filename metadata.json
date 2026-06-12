@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "organization": "zjp1997720",
+  "date": "June 2026",
+  "abstract": "A coordination skill for long agent tasks. It creates a durable agent_team workspace with shared context, a task board, state.json, packet specs, risk gates, handoff files, integration checklists, and optional reusable recipes.",
+  "references": [
+    "https://github.com/vercel-labs/skills",
+    "https://github.com/vercel-labs/agent-skills"
+  ]
+}
